@@ -1,0 +1,8 @@
+<suite name="rahul">
+  <test name="testng">
+    <classes>
+      <class name="testsuite.google"/>
+      <class name="testsuite.gmail"/>
+    </classes>
+  </test> 
+</suite> 
